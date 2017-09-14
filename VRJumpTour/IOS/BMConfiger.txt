@@ -1,0 +1,11 @@
+{
+    "compress" : true,    
+    "deterministicBundle" : true,    
+    "bundleSuffix" : "assetBundle",    
+    "buildOutputPath" : "",    
+    "useCache" : true,    
+    "useCRC" : false,    
+    "downloadThreadsCount" : 4,    
+    "downloadRetryTime" : 10,    
+    "bmVersion" : 1
+}

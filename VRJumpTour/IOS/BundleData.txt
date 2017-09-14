@@ -1,0 +1,1189 @@
+[
+    
+    {
+        "name" : "JumpList",        
+        "includs" : 
+        [
+            "Assets/MyGame/JumpList.json"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "e4fe3aaf625e046d1ac34647adbc2aef"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon0",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon0.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/jump_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "7fc15afdbf3af4bcda93cade69d5efc7"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "cea9b62ff33de45b7a785973883c57ad"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon1",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon1.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/JumpGunkan_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "5c066279aaee24a0a8fac3fa9d55768c"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "39139e0778d204b129e81ed8127f2e0f"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon2",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon2.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/MyGame/Textures/AsoJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs"
+        ],        
+        "includeGUIDs" : 
+        [
+            "cfeb91a18ad0d43e592dcb5e51b45338"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "1fc1ddee7863f4d96b45103981d9cbd4",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon3",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon3.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/OkinawaJump_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "ab63517f9b7274074b866a71611d7def"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "c0f25c7c45cfd4ee2aaae96fc5e439a6"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon4",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon4.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/KanakoSwing_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "e864738b5f75d4df980dcf12d771a5f9"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "f985146bcbe024c7cb7a67a50a15a9b8"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "AsoJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/AsoJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "1a23e1446d53c4967954e786c007e5d5"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "AsoStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/AsoStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "df4b97dc7e4b74c24a6ee0a880ef538d"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "jump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/jump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "303fc823c613f4487b87504d4c8067d3"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "JumpGunkan",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/JumpGunkan.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "adc88ffc2beca4e33af02e15b3fc82e3"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "KanakoSwing",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/KanakoSwing.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "1cd514f21041f40d0b72eff79c99fcea"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "OkinawaJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/OkinawaJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "95118d3f5a322419bb6946a83c5b9977"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "OkinawaStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/OkinawaStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "96efe1b763cad4a52aff1c607b29afa8"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "stay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/stay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "7370f8b5cf1204c25b28f6efc5b5ba9e"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "StayGunkan",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/StayGunkan.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "55655d78912c447aaa7e5b82350fd73b"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Swing",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/Swing.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "5bee28368176247c8a6e78fb755ad516"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon5",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon5.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/MyGame/Textures/IejimaJump_mp4.png",            
+            "Assets/InfiniteScroll/Common/Item.cs"
+        ],        
+        "includeGUIDs" : 
+        [
+            "b1bfb4633f5d648f980aa3fad2a6f51e"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "9685c229f93e04c95b57f88f1b5e52f2",            
+            "2c4e7f2281b324cf8a299ca3463d6426"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "IejimaJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/IejimaJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "48cde2b1ac020402da262efb83fa6324"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "IejimaStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/IejimaStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "65d3a87da27f3476a837372f7e28a311"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "ColorSuite_BlueSky",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/ColorSuite_BlueSky.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/ColorSuite/ColorSuite.cs",            
+            "Assets/ColorSuite/Shader/ColorSuite.shader"
+        ],        
+        "includeGUIDs" : 
+        [
+            "dd2f6ff1e05cf4e598288c4523095f1f"
+        ],        
+        "dependGUIDs" : 
+        [
+            "10593b7d510b64560a297a8af1356dcb",            
+            "dc9775b65c52747e69fc4c854c00d696"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "ColorSuite_Town",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/ColorSuite_Town.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/ColorSuite/ColorSuite.cs",            
+            "Assets/ColorSuite/Shader/ColorSuite.shader"
+        ],        
+        "includeGUIDs" : 
+        [
+            "319095432732e4ad49e1bbb812759d15"
+        ],        
+        "dependGUIDs" : 
+        [
+            "10593b7d510b64560a297a8af1356dcb",            
+            "dc9775b65c52747e69fc4c854c00d696"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "ColorSuite_Grand",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/ColorSuite_Grand.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/ColorSuite/ColorSuite.cs",            
+            "Assets/ColorSuite/Shader/ColorSuite.shader"
+        ],        
+        "includeGUIDs" : 
+        [
+            "6cf6f1d3f90d2470c9710fe896460e0d"
+        ],        
+        "dependGUIDs" : 
+        [
+            "10593b7d510b64560a297a8af1356dcb",            
+            "dc9775b65c52747e69fc4c854c00d696"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "YebisuJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/YebisuJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "8f2ccdeaf8dab4b14b023121b602d97b"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "YebisuStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/YebisuStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "1fb16977142074dc295a7aeea9b3a765"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon6",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon6.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/YebisuJump.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "aebf9ec30f4824019a2ed7985fd101f6"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "ef7df50e9c827480b962633aa9e295af"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "MizuumiJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/MizuumiJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "bb2d0865132774b5f8d606bfa6b48265"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "MizuumiStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/MizuumiStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "cd9637d5191b34757960076931782689"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon7",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon7.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/MizuumiJump_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "d1673e25487b74481bdb9a4b68cb367e"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "a80ddcf1f92374f73abe42540221b723"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "KobeJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/KobeJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "1df57f82e228f4180ad214f2d4042f10"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "KobeStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/KobeStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "3c4e96480d3134b348cec9036cc540b2"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon8",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon8.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/KobeJump_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "0b3b80a0b61f74b18b051474cd3d1d76"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "09a79ed64ef454c6bb1b3e58b4b22dd1"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "DaisenJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/DaisenJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "308434f462f574613ab785f5dcb8467a"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "DaisenStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/DaisenStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "89bae01726ccb42b5a2981ffc33dd7f1"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon9",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon9.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/MyGame/Textures/DaisenJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs"
+        ],        
+        "includeGUIDs" : 
+        [
+            "b14b8abeabfe1449eb8d8d9aebca91d1"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "35e445c9320a547f78225a2c2cdad456",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon10",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon10.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/KondaJump_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "bccdee0339ed44066a81fe8b84440ea3"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "5f7dbce9010a54588a9fcb3d36c9a0b7"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "KondaJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/KondaJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "b68fd61374b5e4ae6b0bacca45d1752f"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "KondaStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/KondaStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "0a219037be12143c9b4ccec00ab86fc4"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "ColorSuite_Forest",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/ColorSuite_Forest.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/ColorSuite/ColorSuite.cs",            
+            "Assets/ColorSuite/Shader/ColorSuite.shader"
+        ],        
+        "includeGUIDs" : 
+        [
+            "b8b38e17810f7407a992e829a197a5d9"
+        ],        
+        "dependGUIDs" : 
+        [
+            "10593b7d510b64560a297a8af1356dcb",            
+            "dc9775b65c52747e69fc4c854c00d696"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "ZaoJump",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/ZaoJump.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "606d9bb0ea16943fa82f4347ea0a02da"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "ZaoStay",        
+        "includs" : 
+        [
+            "Assets/MyGame/Movie/ZaoStay.mp4.bytes"
+        ],        
+        "dependAssets" : 
+        [
+            
+        ],        
+        "includeGUIDs" : 
+        [
+            "d05be59b4636f46c59cd60a3fb42ecd7"
+        ],        
+        "dependGUIDs" : 
+        [
+            
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon11",        
+        "includs" : 
+        [
+            "Assets/MyGame/Prefabs/Icon11.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs",            
+            "Assets/MyGame/Textures/ZaoJump_mp4.png"
+        ],        
+        "includeGUIDs" : 
+        [
+            "c899e1eecaf2640338e99b6077d23e55"
+        ],        
+        "dependGUIDs" : 
+        [
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426",            
+            "fa37400e12c0d488dbcabecb2835095a"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    }
+]
