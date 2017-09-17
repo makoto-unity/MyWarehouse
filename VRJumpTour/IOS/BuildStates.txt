@@ -2,9 +2,9 @@
     
     {
         "bundleName" : "JumpList",        
-        "version" : 71,        
-        "crc" : 2693842324,        
-        "size" : 1992,        
+        "version" : 74,        
+        "crc" : 3875019416,        
+        "size" : 2009,        
         "changeTime" : -8587734571100114058,        
         "lastBuildDependencies" : 
         [
@@ -14,25 +14,27 @@
     
     {
         "bundleName" : "Icon0",        
-        "version" : 20,        
-        "crc" : 3197616361,        
-        "size" : 549335,        
+        "version" : 21,        
+        "crc" : 847485337,        
+        "size" : 984243,        
         "changeTime" : -8587734537450796958,        
         "lastBuildDependencies" : 
         [
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/_MyGame/Prefabs/Icon0.prefab",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/_MyGame/Textures/jump_mp4.png"
         ]
     },    
     
     {
         "bundleName" : "Icon1",        
-        "version" : 18,        
-        "crc" : 773825772,        
-        "size" : 542507,        
+        "version" : 19,        
+        "crc" : 385396109,        
+        "size" : 980494,        
         "changeTime" : -8587734536499916388,        
         "lastBuildDependencies" : 
         [
@@ -40,15 +42,17 @@
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/JumpGunkan_mp4.png",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/_MyGame/Prefabs/Icon1.prefab"
+            "Assets/_MyGame/Prefabs/Icon1.prefab",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "Icon2",        
-        "version" : 18,        
-        "crc" : 491839823,        
-        "size" : 539442,        
+        "version" : 19,        
+        "crc" : 2591292862,        
+        "size" : 976352,        
         "changeTime" : -8587734536466873058,        
         "lastBuildDependencies" : 
         [
@@ -56,47 +60,53 @@
             "Assets/_MyGame/Prefabs/Icon2.prefab",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/_MyGame/Textures/AsoJump_mp4.png"
         ]
     },    
     
     {
         "bundleName" : "Icon3",        
-        "version" : 18,        
-        "crc" : 3371734602,        
-        "size" : 551063,        
+        "version" : 19,        
+        "crc" : 379403358,        
+        "size" : 987954,        
         "changeTime" : -8587734536433585268,        
         "lastBuildDependencies" : 
         [
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/_MyGame/Textures/OkinawaJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/_MyGame/Prefabs/Icon3.prefab"
         ]
     },    
     
     {
         "bundleName" : "Icon4",        
-        "version" : 18,        
-        "crc" : 3678786969,        
-        "size" : 535337,        
+        "version" : 19,        
+        "crc" : 4201199362,        
+        "size" : 976428,        
         "changeTime" : -8587734536395597198,        
         "lastBuildDependencies" : 
         [
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/_MyGame/Textures/KanakoSwing_mp4.png",            
-            "Assets/_MyGame/Prefabs/Icon4.prefab"
+            "Assets/_MyGame/Prefabs/Icon4.prefab",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "AsoJump",        
-        "version" : 13,        
-        "crc" : 1495434331,        
-        "size" : 9404024,        
+        "version" : 14,        
+        "crc" : 65156026,        
+        "size" : 9404057,        
         "changeTime" : -8587734504453209218,        
         "lastBuildDependencies" : 
         [
@@ -106,9 +116,9 @@
     
     {
         "bundleName" : "AsoStay",        
-        "version" : 13,        
-        "crc" : 2476904963,        
-        "size" : 3671745,        
+        "version" : 14,        
+        "crc" : 657991169,        
+        "size" : 3671756,        
         "changeTime" : -8587734502712489408,        
         "lastBuildDependencies" : 
         [
@@ -118,9 +128,9 @@
     
     {
         "bundleName" : "jump",        
-        "version" : 13,        
-        "crc" : 4182935237,        
-        "size" : 12187231,        
+        "version" : 14,        
+        "crc" : 4040523231,        
+        "size" : 12187362,        
         "changeTime" : -8587734502657760138,        
         "lastBuildDependencies" : 
         [
@@ -130,9 +140,9 @@
     
     {
         "bundleName" : "JumpGunkan",        
-        "version" : 13,        
-        "crc" : 2184148223,        
-        "size" : 14260482,        
+        "version" : 14,        
+        "crc" : 3078624619,        
+        "size" : 14260564,        
         "changeTime" : -8587734502604441888,        
         "lastBuildDependencies" : 
         [
@@ -142,9 +152,9 @@
     
     {
         "bundleName" : "KanakoSwing",        
-        "version" : 13,        
-        "crc" : 3524673596,        
-        "size" : 19903195,        
+        "version" : 14,        
+        "crc" : 707740121,        
+        "size" : 19903279,        
         "changeTime" : -8587734502558642818,        
         "lastBuildDependencies" : 
         [
@@ -154,9 +164,9 @@
     
     {
         "bundleName" : "OkinawaJump",        
-        "version" : 13,        
-        "crc" : 2122324476,        
-        "size" : 8236705,        
+        "version" : 14,        
+        "crc" : 1724937374,        
+        "size" : 8236761,        
         "changeTime" : -8587734502524093238,        
         "lastBuildDependencies" : 
         [
@@ -166,8 +176,8 @@
     
     {
         "bundleName" : "OkinawaStay",        
-        "version" : 13,        
-        "crc" : 1865451541,        
+        "version" : 14,        
+        "crc" : 1558125421,        
         "size" : 6589908,        
         "changeTime" : -8587734502490125628,        
         "lastBuildDependencies" : 
@@ -178,9 +188,9 @@
     
     {
         "bundleName" : "stay",        
-        "version" : 13,        
-        "crc" : 3102102867,        
-        "size" : 1912030,        
+        "version" : 14,        
+        "crc" : 359728680,        
+        "size" : 1912099,        
         "changeTime" : -8587734502452191578,        
         "lastBuildDependencies" : 
         [
@@ -190,9 +200,9 @@
     
     {
         "bundleName" : "StayGunkan",        
-        "version" : 13,        
-        "crc" : 1861754252,        
-        "size" : 6313582,        
+        "version" : 14,        
+        "crc" : 1268149059,        
+        "size" : 6313585,        
         "changeTime" : -8587734502378043248,        
         "lastBuildDependencies" : 
         [
@@ -202,9 +212,9 @@
     
     {
         "bundleName" : "Swing",        
-        "version" : 13,        
-        "crc" : 641685165,        
-        "size" : 30203664,        
+        "version" : 14,        
+        "crc" : 1623790758,        
+        "size" : 30203865,        
         "changeTime" : -8587734502344467348,        
         "lastBuildDependencies" : 
         [
@@ -214,9 +224,9 @@
     
     {
         "bundleName" : "Icon5",        
-        "version" : 14,        
-        "crc" : 2097325976,        
-        "size" : 522386,        
+        "version" : 15,        
+        "crc" : 3103515333,        
+        "size" : 960977,        
         "changeTime" : -8587731026473244148,        
         "lastBuildDependencies" : 
         [
@@ -224,15 +234,17 @@
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Prefabs/Icon5.prefab",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/_MyGame/Textures/IejimaJump_mp4.png"
+            "Assets/_MyGame/Textures/IejimaJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "IejimaJump",        
-        "version" : 11,        
-        "crc" : 1368912992,        
-        "size" : 6501654,        
+        "version" : 12,        
+        "crc" : 3056965037,        
+        "size" : 6501683,        
         "changeTime" : -8587730981627595718,        
         "lastBuildDependencies" : 
         [
@@ -242,9 +254,9 @@
     
     {
         "bundleName" : "IejimaStay",        
-        "version" : 12,        
-        "crc" : 833520482,        
-        "size" : 3872033,        
+        "version" : 13,        
+        "crc" : 2746501255,        
+        "size" : 3872040,        
         "changeTime" : -8587730981702159298,        
         "lastBuildDependencies" : 
         [
@@ -254,9 +266,9 @@
     
     {
         "bundleName" : "ColorSuite_BlueSky",        
-        "version" : 8,        
-        "crc" : 4026158363,        
-        "size" : 6028,        
+        "version" : 9,        
+        "crc" : 1292713568,        
+        "size" : 12707,        
         "changeTime" : -8587566813565683858,        
         "lastBuildDependencies" : 
         [
@@ -268,9 +280,9 @@
     
     {
         "bundleName" : "ColorSuite_Town",        
-        "version" : 8,        
-        "crc" : 3285729881,        
-        "size" : 6020,        
+        "version" : 9,        
+        "crc" : 545741421,        
+        "size" : 12696,        
         "changeTime" : -8587566812841385848,        
         "lastBuildDependencies" : 
         [
@@ -282,9 +294,9 @@
     
     {
         "bundleName" : "ColorSuite_Grand",        
-        "version" : 8,        
-        "crc" : 317102491,        
-        "size" : 6037,        
+        "version" : 9,        
+        "crc" : 1233250233,        
+        "size" : 12710,        
         "changeTime" : -8587566812013964048,        
         "lastBuildDependencies" : 
         [
@@ -296,9 +308,9 @@
     
     {
         "bundleName" : "YebisuJump",        
-        "version" : 9,        
-        "crc" : 3866445548,        
-        "size" : 38512631,        
+        "version" : 10,        
+        "crc" : 2847860316,        
+        "size" : 38512567,        
         "changeTime" : -8587559902193442158,        
         "lastBuildDependencies" : 
         [
@@ -308,9 +320,9 @@
     
     {
         "bundleName" : "YebisuStay",        
-        "version" : 9,        
-        "crc" : 2243120708,        
-        "size" : 23264220,        
+        "version" : 10,        
+        "crc" : 575218036,        
+        "size" : 23264146,        
         "changeTime" : -8587559902257111958,        
         "lastBuildDependencies" : 
         [
@@ -320,9 +332,9 @@
     
     {
         "bundleName" : "Icon6",        
-        "version" : 10,        
-        "crc" : 1439321098,        
-        "size" : 556615,        
+        "version" : 11,        
+        "crc" : 1725266967,        
+        "size" : 994986,        
         "changeTime" : -8587559895798795118,        
         "lastBuildDependencies" : 
         [
@@ -330,15 +342,17 @@
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Prefabs/Icon6.prefab",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/_MyGame/Textures/YebisuJump.png"
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Textures/YebisuJump.png",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "MizuumiJump",        
-        "version" : 7,        
-        "crc" : 3587283763,        
-        "size" : 10201753,        
+        "version" : 8,        
+        "crc" : 2544314937,        
+        "size" : 10201796,        
         "changeTime" : -8587415277509233118,        
         "lastBuildDependencies" : 
         [
@@ -348,9 +362,9 @@
     
     {
         "bundleName" : "MizuumiStay",        
-        "version" : 7,        
-        "crc" : 59157098,        
-        "size" : 9296487,        
+        "version" : 8,        
+        "crc" : 2544585265,        
+        "size" : 9296517,        
         "changeTime" : -8587415277309973388,        
         "lastBuildDependencies" : 
         [
@@ -360,9 +374,9 @@
     
     {
         "bundleName" : "Icon7",        
-        "version" : 8,        
-        "crc" : 643591097,        
-        "size" : 547457,        
+        "version" : 9,        
+        "crc" : 768704806,        
+        "size" : 979617,        
         "changeTime" : -8587414858322447988,        
         "lastBuildDependencies" : 
         [
@@ -370,15 +384,17 @@
             "Assets/_MyGame/Textures/MizuumiJump_mp4.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Prefabs/Icon7.prefab",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf"
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "KobeJump",        
-        "version" : 4,        
-        "crc" : 2607924736,        
-        "size" : 5494680,        
+        "version" : 5,        
+        "crc" : 3868958962,        
+        "size" : 5494679,        
         "changeTime" : -8587402691201183918,        
         "lastBuildDependencies" : 
         [
@@ -388,9 +404,9 @@
     
     {
         "bundleName" : "KobeStay",        
-        "version" : 5,        
-        "crc" : 3592283297,        
-        "size" : 174880,        
+        "version" : 6,        
+        "crc" : 1080815067,        
+        "size" : 174901,        
         "changeTime" : -8587402691129784288,        
         "lastBuildDependencies" : 
         [
@@ -400,9 +416,9 @@
     
     {
         "bundleName" : "Icon8",        
-        "version" : 4,        
-        "crc" : 1271322024,        
-        "size" : 552886,        
+        "version" : 5,        
+        "crc" : 4228405307,        
+        "size" : 991379,        
         "changeTime" : -8587402687480123428,        
         "lastBuildDependencies" : 
         [
@@ -410,15 +426,17 @@
             "Assets/_MyGame/Prefabs/Icon8.prefab",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/KobeJump_mp4.png",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf"
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "DaisenJump",        
-        "version" : 4,        
-        "crc" : 2381382404,        
-        "size" : 13965896,        
+        "version" : 5,        
+        "crc" : 3212391997,        
+        "size" : 13967945,        
         "changeTime" : -8587371815591071118,        
         "lastBuildDependencies" : 
         [
@@ -428,9 +446,9 @@
     
     {
         "bundleName" : "DaisenStay",        
-        "version" : 4,        
-        "crc" : 4010238867,        
-        "size" : 14219135,        
+        "version" : 5,        
+        "crc" : 1433995803,        
+        "size" : 14219237,        
         "changeTime" : -8587371815235344138,        
         "lastBuildDependencies" : 
         [
@@ -440,9 +458,9 @@
     
     {
         "bundleName" : "Icon9",        
-        "version" : 6,        
-        "crc" : 3130491213,        
-        "size" : 524983,        
+        "version" : 7,        
+        "crc" : 4073858331,        
+        "size" : 958897,        
         "changeTime" : -8587371780362408038,        
         "lastBuildDependencies" : 
         [
@@ -450,15 +468,17 @@
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/_MyGame/Textures/DaisenJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/_MyGame/Prefabs/Icon9.prefab"
         ]
     },    
     
     {
         "bundleName" : "Icon10",        
-        "version" : 6,        
-        "crc" : 870839147,        
-        "size" : 518495,        
+        "version" : 7,        
+        "crc" : 51221252,        
+        "size" : 954951,        
         "changeTime" : -8587371740269306138,        
         "lastBuildDependencies" : 
         [
@@ -466,15 +486,17 @@
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Prefabs/Icon10.prefab",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/_MyGame/Textures/KondaJump_mp4.png"
+            "Assets/_MyGame/Textures/KondaJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
     {
         "bundleName" : "KondaJump",        
-        "version" : 4,        
-        "crc" : 2831082625,        
-        "size" : 14902872,        
+        "version" : 5,        
+        "crc" : 1585872577,        
+        "size" : 14902892,        
         "changeTime" : -8587371739092815608,        
         "lastBuildDependencies" : 
         [
@@ -484,9 +506,9 @@
     
     {
         "bundleName" : "KondaStay",        
-        "version" : 4,        
-        "crc" : 1204106353,        
-        "size" : 12641041,        
+        "version" : 5,        
+        "crc" : 890617276,        
+        "size" : 12641016,        
         "changeTime" : -8587371738999960408,        
         "lastBuildDependencies" : 
         [
@@ -496,9 +518,9 @@
     
     {
         "bundleName" : "ColorSuite_Forest",        
-        "version" : 11,        
-        "crc" : 6481109,        
-        "size" : 5992,        
+        "version" : 12,        
+        "crc" : 1687355262,        
+        "size" : 12669,        
         "changeTime" : -8587362989648429748,        
         "lastBuildDependencies" : 
         [
@@ -510,9 +532,9 @@
     
     {
         "bundleName" : "ZaoJump",        
-        "version" : 3,        
-        "crc" : 1860171564,        
-        "size" : 17516685,        
+        "version" : 4,        
+        "crc" : 3903998800,        
+        "size" : 17516797,        
         "changeTime" : -8587243250649389348,        
         "lastBuildDependencies" : 
         [
@@ -522,9 +544,9 @@
     
     {
         "bundleName" : "ZaoStay",        
-        "version" : 3,        
-        "crc" : 4288458258,        
-        "size" : 11814748,        
+        "version" : 4,        
+        "crc" : 4166407587,        
+        "size" : 11814796,        
         "changeTime" : -8587243250611446058,        
         "lastBuildDependencies" : 
         [
@@ -534,16 +556,18 @@
     
     {
         "bundleName" : "Icon11",        
-        "version" : 3,        
-        "crc" : 1229540086,        
-        "size" : 511425,        
+        "version" : 4,        
+        "crc" : 1391147969,        
+        "size" : 952454,        
         "changeTime" : -8587243249344031918,        
         "lastBuildDependencies" : 
         [
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/_MyGame/Textures/ZaoJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/_MyGame/Prefabs/Icon11.prefab"
         ]
     }
