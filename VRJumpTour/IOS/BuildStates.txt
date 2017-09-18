@@ -2,9 +2,9 @@
     
     {
         "bundleName" : "JumpList",        
-        "version" : 74,        
-        "crc" : 3875019416,        
-        "size" : 2009,        
+        "version" : 75,        
+        "crc" : 211492278,        
+        "size" : 2002,        
         "changeTime" : -8587734571100114058,        
         "lastBuildDependencies" : 
         [
