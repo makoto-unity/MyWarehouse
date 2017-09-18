@@ -2,9 +2,9 @@
     
     {
         "bundleName" : "JumpList",        
-        "version" : 78,        
-        "crc" : 770348108,        
-        "size" : 2002,        
+        "version" : 79,        
+        "crc" : 2385014673,        
+        "size" : 1997,        
         "changeTime" : -8587734571100114058,        
         "lastBuildDependencies" : 
         [
@@ -172,7 +172,7 @@
     
     {
         "bundleName" : "ColorSuite_Town",        
-        "version" : 10,        
+        "version" : 11,        
         "crc" : 545741421,        
         "size" : 12696,        
         "changeTime" : -8587566812841385848,        
@@ -396,10 +396,10 @@
     
     {
         "bundleName" : "Icon2",        
-        "version" : 0,        
-        "crc" : 2505753651,        
-        "size" : 875638,        
-        "changeTime" : -8586958955334541538,        
+        "version" : 1,        
+        "crc" : 65375631,        
+        "size" : 875670,        
+        "changeTime" : -8586958868986923738,        
         "lastBuildDependencies" : 
         [
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            

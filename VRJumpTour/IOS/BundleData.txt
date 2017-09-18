@@ -405,7 +405,7 @@
         "parent" : "",        
         "children" : 
         [
-            
+            "Icon2"
         ]
     },    
     
@@ -870,45 +870,6 @@
     },    
     
     {
-        "name" : "Icon2",        
-        "includs" : 
-        [
-            "Assets/_MyGame/Prefabs/Icon2.prefab"
-        ],        
-        "dependAssets" : 
-        [
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/_MyGame/Textures/AsoJump_mp4.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/InfiniteScroll/Common/Item.cs"
-        ],        
-        "includeGUIDs" : 
-        [
-            "cfeb91a18ad0d43e592dcb5e51b45338"
-        ],        
-        "dependGUIDs" : 
-        [
-            "44dce14e79123f245a9ea606110c4d1c",            
-            "36895b78e83b79e45b9de5af0aacb168",            
-            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
-            "1fc1ddee7863f4d96b45103981d9cbd4",            
-            "96c072a1740ee462aaa86e10b86e7e91",            
-            "767e53508be9f324183b114bf6b17a0f",            
-            "2c4e7f2281b324cf8a299ca3463d6426"
-        ],        
-        "sceneBundle" : false,        
-        "priority" : 0,        
-        "parent" : "",        
-        "children" : 
-        [
-            
-        ]
-    },    
-    
-    {
         "name" : "Icon3",        
         "includs" : 
         [
@@ -1217,6 +1178,45 @@
         "sceneBundle" : false,        
         "priority" : 0,        
         "parent" : "",        
+        "children" : 
+        [
+            
+        ]
+    },    
+    
+    {
+        "name" : "Icon2",        
+        "includs" : 
+        [
+            "Assets/_MyGame/Prefabs/Icon2.prefab"
+        ],        
+        "dependAssets" : 
+        [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Textures/AsoJump_mp4.png",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
+            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
+            "Assets/InfiniteScroll/Common/Item.cs"
+        ],        
+        "includeGUIDs" : 
+        [
+            "cfeb91a18ad0d43e592dcb5e51b45338"
+        ],        
+        "dependGUIDs" : 
+        [
+            "44dce14e79123f245a9ea606110c4d1c",            
+            "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
+            "1fc1ddee7863f4d96b45103981d9cbd4",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
+            "767e53508be9f324183b114bf6b17a0f",            
+            "2c4e7f2281b324cf8a299ca3463d6426"
+        ],        
+        "sceneBundle" : false,        
+        "priority" : 0,        
+        "parent" : "ColorSuite_Town",        
         "children" : 
         [
             
