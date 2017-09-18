@@ -74,7 +74,10 @@
         ],        
         "dependAssets" : 
         [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/JumpGunkan_mp4.png"
@@ -85,7 +88,10 @@
         ],        
         "dependGUIDs" : 
         [
+            "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "39139e0778d204b129e81ed8127f2e0f"
@@ -111,6 +117,7 @@
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/_MyGame/Textures/AsoJump_mp4.png",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs"
         ],        
@@ -124,6 +131,7 @@
             "36895b78e83b79e45b9de5af0aacb168",            
             "9dd1c19a122ed05439dd5ae6ebc4dd35",            
             "1fc1ddee7863f4d96b45103981d9cbd4",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426"
         ],        
@@ -147,6 +155,7 @@
             "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/OkinawaJump_mp4.png"
@@ -160,6 +169,7 @@
             "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
             "9dd1c19a122ed05439dd5ae6ebc4dd35",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "c0f25c7c45cfd4ee2aaae96fc5e439a6"
@@ -184,6 +194,7 @@
             "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/KanakoSwing_mp4.png"
@@ -197,6 +208,7 @@
             "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
             "9dd1c19a122ed05439dd5ae6ebc4dd35",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "f985146bcbe024c7cb7a67a50a15a9b8"
@@ -488,7 +500,10 @@
         ],        
         "dependAssets" : 
         [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/_MyGame/Textures/IejimaJump_mp4.png",            
             "Assets/InfiniteScroll/Common/Item.cs"
@@ -499,7 +514,10 @@
         ],        
         "dependGUIDs" : 
         [
+            "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "9685c229f93e04c95b57f88f1b5e52f2",            
             "2c4e7f2281b324cf8a299ca3463d6426"
@@ -716,7 +734,7 @@
         ],        
         "dependAssets" : 
         [
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/YebisuJump.png"
@@ -727,7 +745,7 @@
         ],        
         "dependGUIDs" : 
         [
-            "36895b78e83b79e45b9de5af0aacb168",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "ef7df50e9c827480b962633aa9e295af"
@@ -803,7 +821,7 @@
         ],        
         "dependAssets" : 
         [
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/MizuumiJump_mp4.png"
@@ -814,7 +832,7 @@
         ],        
         "dependGUIDs" : 
         [
-            "36895b78e83b79e45b9de5af0aacb168",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "a80ddcf1f92374f73abe42540221b723"
@@ -890,7 +908,7 @@
         ],        
         "dependAssets" : 
         [
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/KobeJump_mp4.png"
@@ -901,7 +919,7 @@
         ],        
         "dependGUIDs" : 
         [
-            "36895b78e83b79e45b9de5af0aacb168",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "09a79ed64ef454c6bb1b3e58b4b22dd1"
@@ -977,8 +995,8 @@
         ],        
         "dependAssets" : 
         [
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/_MyGame/Textures/DaisenJump_mp4.png",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs"
         ],        
@@ -988,8 +1006,8 @@
         ],        
         "dependGUIDs" : 
         [
-            "36895b78e83b79e45b9de5af0aacb168",            
             "35e445c9320a547f78225a2c2cdad456",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426"
         ],        
@@ -1010,7 +1028,7 @@
         ],        
         "dependAssets" : 
         [
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/KondaJump_mp4.png"
@@ -1021,7 +1039,7 @@
         ],        
         "dependGUIDs" : 
         [
-            "36895b78e83b79e45b9de5af0aacb168",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "5f7dbce9010a54588a9fcb3d36c9a0b7"
@@ -1180,7 +1198,7 @@
         ],        
         "dependAssets" : 
         [
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
             "Assets/_MyGame/Textures/ZaoJump_mp4.png"
@@ -1191,7 +1209,7 @@
         ],        
         "dependGUIDs" : 
         [
-            "36895b78e83b79e45b9de5af0aacb168",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "fa37400e12c0d488dbcabecb2835095a"
