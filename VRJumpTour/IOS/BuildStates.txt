@@ -2,108 +2,13 @@
     
     {
         "bundleName" : "JumpList",        
-        "version" : 77,        
-        "crc" : 3051117602,        
+        "version" : 78,        
+        "crc" : 770348108,        
         "size" : 2002,        
         "changeTime" : -8587734571100114058,        
         "lastBuildDependencies" : 
         [
             "Assets/_MyGame/JumpList.json"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon0",        
-        "version" : 23,        
-        "crc" : 75115740,        
-        "size" : 883185,        
-        "changeTime" : -8587734537450796958,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/_MyGame/Prefabs/Icon0.prefab",            
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
-            "Assets/_MyGame/Textures/jump_mp4.png"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon1",        
-        "version" : 21,        
-        "crc" : 1234912027,        
-        "size" : 879769,        
-        "changeTime" : -8587734536499916388,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Textures/JumpGunkan_mp4.png",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/_MyGame/Prefabs/Icon1.prefab",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon2",        
-        "version" : 21,        
-        "crc" : 1311958740,        
-        "size" : 875231,        
-        "changeTime" : -8587734536466873058,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Prefabs/Icon2.prefab",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
-            "Assets/_MyGame/Textures/AsoJump_mp4.png"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon3",        
-        "version" : 21,        
-        "crc" : 3300165757,        
-        "size" : 886575,        
-        "changeTime" : -8587734536433585268,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/_MyGame/Textures/OkinawaJump_mp4.png",            
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
-            "Assets/_MyGame/Prefabs/Icon3.prefab"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon4",        
-        "version" : 21,        
-        "crc" : 2678142609,        
-        "size" : 875588,        
-        "changeTime" : -8587734536395597198,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/_MyGame/Textures/KanakoSwing_mp4.png",            
-            "Assets/_MyGame/Prefabs/Icon4.prefab",            
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
         ]
     },    
     
@@ -228,25 +133,6 @@
     },    
     
     {
-        "bundleName" : "Icon5",        
-        "version" : 17,        
-        "crc" : 354410490,        
-        "size" : 859957,        
-        "changeTime" : -8587731026473244148,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Prefabs/Icon5.prefab",            
-            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/_MyGame/Textures/IejimaJump_mp4.png",            
-            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
-            "Assets/Holo UI for UGUI/Fonts/arial.ttf"
-        ]
-    },    
-    
-    {
         "bundleName" : "IejimaJump",        
         "version" : 13,        
         "crc" : 3056965037,        
@@ -337,22 +223,6 @@
     },    
     
     {
-        "bundleName" : "Icon6",        
-        "version" : 13,        
-        "crc" : 3421997475,        
-        "size" : 894188,        
-        "changeTime" : -8587559895798795118,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Prefabs/Icon6.prefab",            
-            "Assets/_MyGame/Textures/YebisuJump.png"
-        ]
-    },    
-    
-    {
         "bundleName" : "MizuumiJump",        
         "version" : 9,        
         "crc" : 2544314937,        
@@ -373,22 +243,6 @@
         "lastBuildDependencies" : 
         [
             "Assets/_MyGame/Movie/MizuumiStay.mp4.bytes"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon7",        
-        "version" : 11,        
-        "crc" : 3398408886,        
-        "size" : 878636,        
-        "changeTime" : -8587414858322447988,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/_MyGame/Textures/MizuumiJump_mp4.png",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Prefabs/Icon7.prefab"
         ]
     },    
     
@@ -417,22 +271,6 @@
     },    
     
     {
-        "bundleName" : "Icon8",        
-        "version" : 7,        
-        "crc" : 1996757690,        
-        "size" : 890036,        
-        "changeTime" : -8587402687480123428,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Prefabs/Icon8.prefab",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Textures/KobeJump_mp4.png"
-        ]
-    },    
-    
-    {
         "bundleName" : "DaisenJump",        
         "version" : 6,        
         "crc" : 3212391997,        
@@ -453,38 +291,6 @@
         "lastBuildDependencies" : 
         [
             "Assets/_MyGame/Movie/DaisenStay.mp4.bytes"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon9",        
-        "version" : 9,        
-        "crc" : 2702963266,        
-        "size" : 857871,        
-        "changeTime" : -8587371780362408038,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Textures/DaisenJump_mp4.png",            
-            "Assets/_MyGame/Prefabs/Icon9.prefab"
-        ]
-    },    
-    
-    {
-        "bundleName" : "Icon10",        
-        "version" : 9,        
-        "crc" : 1472005677,        
-        "size" : 853753,        
-        "changeTime" : -8587371740269306138,        
-        "lastBuildDependencies" : 
-        [
-            "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/_MyGame/Fonts/Helvetica.dfont",            
-            "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Prefabs/Icon10.prefab",            
-            "Assets/_MyGame/Textures/KondaJump_mp4.png"
         ]
     },    
     
@@ -551,18 +357,21 @@
     },    
     
     {
-        "bundleName" : "Icon11",        
-        "version" : 6,        
-        "crc" : 1871966168,        
-        "size" : 851505,        
-        "changeTime" : -8587243249344031918,        
+        "bundleName" : "Icon0",        
+        "version" : 0,        
+        "crc" : 2726326666,        
+        "size" : 883113,        
+        "changeTime" : -8586958986873054748,        
         "lastBuildDependencies" : 
         [
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/_MyGame/Textures/ZaoJump_mp4.png",            
-            "Assets/_MyGame/Prefabs/Icon11.prefab"
+            "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Prefabs/Icon0.prefab",            
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
+            "Assets/_MyGame/Textures/jump_mp4.png"
         ]
     }
 ]
