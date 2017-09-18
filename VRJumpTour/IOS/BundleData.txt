@@ -4,7 +4,7 @@
         "name" : "JumpList",        
         "includs" : 
         [
-            "Assets/MyGame/JumpList.json"
+            "Assets/_MyGame/JumpList.json"
         ],        
         "dependAssets" : 
         [
@@ -31,14 +31,17 @@
         "name" : "Icon0",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon0.prefab"
+            "Assets/_MyGame/Prefabs/Icon0.prefab"
         ],        
         "dependAssets" : 
         [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Fonts/Helvetica.dfont",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/jump_mp4.png"
+            "Assets/_MyGame/Textures/jump_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -46,7 +49,10 @@
         ],        
         "dependGUIDs" : 
         [
+            "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
+            "96c072a1740ee462aaa86e10b86e7e91",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "cea9b62ff33de45b7a785973883c57ad"
@@ -64,14 +70,14 @@
         "name" : "Icon1",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon1.prefab"
+            "Assets/_MyGame/Prefabs/Icon1.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/JumpGunkan_mp4.png"
+            "Assets/_MyGame/Textures/JumpGunkan_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -97,12 +103,14 @@
         "name" : "Icon2",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon2.prefab"
+            "Assets/_MyGame/Prefabs/Icon2.prefab"
         ],        
         "dependAssets" : 
         [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/MyGame/Textures/AsoJump_mp4.png",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
+            "Assets/_MyGame/Textures/AsoJump_mp4.png",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs"
         ],        
@@ -112,7 +120,9 @@
         ],        
         "dependGUIDs" : 
         [
+            "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
             "1fc1ddee7863f4d96b45103981d9cbd4",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426"
@@ -130,14 +140,16 @@
         "name" : "Icon3",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon3.prefab"
+            "Assets/_MyGame/Prefabs/Icon3.prefab"
         ],        
         "dependAssets" : 
         [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/OkinawaJump_mp4.png"
+            "Assets/_MyGame/Textures/OkinawaJump_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -145,7 +157,9 @@
         ],        
         "dependGUIDs" : 
         [
+            "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "c0f25c7c45cfd4ee2aaae96fc5e439a6"
@@ -163,14 +177,16 @@
         "name" : "Icon4",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon4.prefab"
+            "Assets/_MyGame/Prefabs/Icon4.prefab"
         ],        
         "dependAssets" : 
         [
+            "Assets/Holo UI for UGUI/Fonts/arial.ttf",            
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
+            "Assets/Holo UI for UGUI/Fonts/ariblk.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/KanakoSwing_mp4.png"
+            "Assets/_MyGame/Textures/KanakoSwing_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -178,7 +194,9 @@
         ],        
         "dependGUIDs" : 
         [
+            "44dce14e79123f245a9ea606110c4d1c",            
             "36895b78e83b79e45b9de5af0aacb168",            
+            "9dd1c19a122ed05439dd5ae6ebc4dd35",            
             "767e53508be9f324183b114bf6b17a0f",            
             "2c4e7f2281b324cf8a299ca3463d6426",            
             "f985146bcbe024c7cb7a67a50a15a9b8"
@@ -196,7 +214,7 @@
         "name" : "AsoJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/AsoJump.mp4.bytes"
+            "Assets/_MyGame/Movie/AsoJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -223,7 +241,7 @@
         "name" : "AsoStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/AsoStay.mp4.bytes"
+            "Assets/_MyGame/Movie/AsoStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -250,7 +268,7 @@
         "name" : "jump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/jump.mp4.bytes"
+            "Assets/_MyGame/Movie/jump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -277,7 +295,7 @@
         "name" : "JumpGunkan",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/JumpGunkan.mp4.bytes"
+            "Assets/_MyGame/Movie/JumpGunkan.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -304,7 +322,7 @@
         "name" : "KanakoSwing",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/KanakoSwing.mp4.bytes"
+            "Assets/_MyGame/Movie/KanakoSwing.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -331,7 +349,7 @@
         "name" : "OkinawaJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/OkinawaJump.mp4.bytes"
+            "Assets/_MyGame/Movie/OkinawaJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -358,7 +376,7 @@
         "name" : "OkinawaStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/OkinawaStay.mp4.bytes"
+            "Assets/_MyGame/Movie/OkinawaStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -385,7 +403,7 @@
         "name" : "stay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/stay.mp4.bytes"
+            "Assets/_MyGame/Movie/stay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -412,7 +430,7 @@
         "name" : "StayGunkan",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/StayGunkan.mp4.bytes"
+            "Assets/_MyGame/Movie/StayGunkan.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -439,7 +457,7 @@
         "name" : "Swing",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/Swing.mp4.bytes"
+            "Assets/_MyGame/Movie/Swing.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -466,13 +484,13 @@
         "name" : "Icon5",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon5.prefab"
+            "Assets/_MyGame/Prefabs/Icon5.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
-            "Assets/MyGame/Textures/IejimaJump_mp4.png",            
+            "Assets/_MyGame/Textures/IejimaJump_mp4.png",            
             "Assets/InfiniteScroll/Common/Item.cs"
         ],        
         "includeGUIDs" : 
@@ -499,7 +517,7 @@
         "name" : "IejimaJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/IejimaJump.mp4.bytes"
+            "Assets/_MyGame/Movie/IejimaJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -526,7 +544,7 @@
         "name" : "IejimaStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/IejimaStay.mp4.bytes"
+            "Assets/_MyGame/Movie/IejimaStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -553,7 +571,7 @@
         "name" : "ColorSuite_BlueSky",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/ColorSuite_BlueSky.prefab"
+            "Assets/_MyGame/Prefabs/ColorSuite_BlueSky.prefab"
         ],        
         "dependAssets" : 
         [
@@ -582,7 +600,7 @@
         "name" : "ColorSuite_Town",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/ColorSuite_Town.prefab"
+            "Assets/_MyGame/Prefabs/ColorSuite_Town.prefab"
         ],        
         "dependAssets" : 
         [
@@ -611,7 +629,7 @@
         "name" : "ColorSuite_Grand",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/ColorSuite_Grand.prefab"
+            "Assets/_MyGame/Prefabs/ColorSuite_Grand.prefab"
         ],        
         "dependAssets" : 
         [
@@ -640,7 +658,7 @@
         "name" : "YebisuJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/YebisuJump.mp4.bytes"
+            "Assets/_MyGame/Movie/YebisuJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -667,7 +685,7 @@
         "name" : "YebisuStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/YebisuStay.mp4.bytes"
+            "Assets/_MyGame/Movie/YebisuStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -694,14 +712,14 @@
         "name" : "Icon6",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon6.prefab"
+            "Assets/_MyGame/Prefabs/Icon6.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/YebisuJump.png"
+            "Assets/_MyGame/Textures/YebisuJump.png"
         ],        
         "includeGUIDs" : 
         [
@@ -727,7 +745,7 @@
         "name" : "MizuumiJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/MizuumiJump.mp4.bytes"
+            "Assets/_MyGame/Movie/MizuumiJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -754,7 +772,7 @@
         "name" : "MizuumiStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/MizuumiStay.mp4.bytes"
+            "Assets/_MyGame/Movie/MizuumiStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -781,14 +799,14 @@
         "name" : "Icon7",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon7.prefab"
+            "Assets/_MyGame/Prefabs/Icon7.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/MizuumiJump_mp4.png"
+            "Assets/_MyGame/Textures/MizuumiJump_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -814,7 +832,7 @@
         "name" : "KobeJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/KobeJump.mp4.bytes"
+            "Assets/_MyGame/Movie/KobeJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -841,7 +859,7 @@
         "name" : "KobeStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/KobeStay.mp4.bytes"
+            "Assets/_MyGame/Movie/KobeStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -868,14 +886,14 @@
         "name" : "Icon8",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon8.prefab"
+            "Assets/_MyGame/Prefabs/Icon8.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/KobeJump_mp4.png"
+            "Assets/_MyGame/Textures/KobeJump_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -901,7 +919,7 @@
         "name" : "DaisenJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/DaisenJump.mp4.bytes"
+            "Assets/_MyGame/Movie/DaisenJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -928,7 +946,7 @@
         "name" : "DaisenStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/DaisenStay.mp4.bytes"
+            "Assets/_MyGame/Movie/DaisenStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -955,12 +973,12 @@
         "name" : "Icon9",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon9.prefab"
+            "Assets/_MyGame/Prefabs/Icon9.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
-            "Assets/MyGame/Textures/DaisenJump_mp4.png",            
+            "Assets/_MyGame/Textures/DaisenJump_mp4.png",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs"
         ],        
@@ -988,14 +1006,14 @@
         "name" : "Icon10",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon10.prefab"
+            "Assets/_MyGame/Prefabs/Icon10.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/KondaJump_mp4.png"
+            "Assets/_MyGame/Textures/KondaJump_mp4.png"
         ],        
         "includeGUIDs" : 
         [
@@ -1021,7 +1039,7 @@
         "name" : "KondaJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/KondaJump.mp4.bytes"
+            "Assets/_MyGame/Movie/KondaJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -1048,7 +1066,7 @@
         "name" : "KondaStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/KondaStay.mp4.bytes"
+            "Assets/_MyGame/Movie/KondaStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -1075,7 +1093,7 @@
         "name" : "ColorSuite_Forest",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/ColorSuite_Forest.prefab"
+            "Assets/_MyGame/Prefabs/ColorSuite_Forest.prefab"
         ],        
         "dependAssets" : 
         [
@@ -1104,7 +1122,7 @@
         "name" : "ZaoJump",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/ZaoJump.mp4.bytes"
+            "Assets/_MyGame/Movie/ZaoJump.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -1131,7 +1149,7 @@
         "name" : "ZaoStay",        
         "includs" : 
         [
-            "Assets/MyGame/Movie/ZaoStay.mp4.bytes"
+            "Assets/_MyGame/Movie/ZaoStay.mp4.bytes"
         ],        
         "dependAssets" : 
         [
@@ -1158,14 +1176,14 @@
         "name" : "Icon11",        
         "includs" : 
         [
-            "Assets/MyGame/Prefabs/Icon11.prefab"
+            "Assets/_MyGame/Prefabs/Icon11.prefab"
         ],        
         "dependAssets" : 
         [
             "Assets/Holo UI for UGUI/Fonts/arialbd.ttf",            
             "Assets/Holo UI for UGUI/Atlas/Holo Atlas.png",            
             "Assets/InfiniteScroll/Common/Item.cs",            
-            "Assets/MyGame/Textures/ZaoJump_mp4.png"
+            "Assets/_MyGame/Textures/ZaoJump_mp4.png"
         ],        
         "includeGUIDs" : 
         [
