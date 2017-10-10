@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2898263067
+CRC: 677565395
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -124,4 +124,50 @@ AssetBundleManifest:
       Dependencies: {}
     Info_36:
       Name: zaostay.mp4
+      Dependencies: {}
+    Info_37:
+      Name: scene-bundle
+      Dependencies:
+        Dependency_0: material-bundle
+    Info_38:
+      Name: variants/myassets.hd
+      Dependencies: {}
+    Info_39:
+      Name: variants/variant-scene
+      Dependencies:
+        Dependency_0: variants/myassets.hd
+    Info_40:
+      Name: variants/myassets.sd
+      Dependencies: {}
+    Info_41:
+      Name: tanks-scene-bundle
+      Dependencies:
+        Dependency_0: tanks-albedo.normal-hd
+    Info_42:
+      Name: tanks-albedo.desert-hd
+      Dependencies: {}
+    Info_43:
+      Name: tanks-albedo.normal-sd
+      Dependencies: {}
+    Info_44:
+      Name: tanks-albedo.normal-hd
+      Dependencies: {}
+    Info_45:
+      Name: tanks-albedo.desert-sd
+      Dependencies: {}
+    Info_46:
+      Name: banner.english
+      Dependencies: {}
+    Info_47:
+      Name: banner.danish
+      Dependencies: {}
+    Info_48:
+      Name: cube-bundle
+      Dependencies:
+        Dependency_0: material-bundle
+    Info_49:
+      Name: material-bundle
+      Dependencies: {}
+    Info_50:
+      Name: jumplist
       Dependencies: {}
