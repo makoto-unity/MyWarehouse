@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3056221613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 212ac7b74ae09fa37571eadbd0047fd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/KobeJump.mp4.bytes
+Dependencies: []

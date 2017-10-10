@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3757185412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08ca6175219cdfba88abfc82d96279a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c010f1e7e2361d38a5a62c90aa00f5dc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Holo UI for UGUI/Atlas/Holo Atlas.png
+- Assets/_MyGame/Fonts/Helvetica.dfont
+- Assets/Holo UI for UGUI/Fonts/arialbd.ttf
+- Assets/Holo UI for UGUI/Fonts/ariblk.ttf
+- Assets/Holo UI for UGUI/Fonts/arial.ttf
+Dependencies: []

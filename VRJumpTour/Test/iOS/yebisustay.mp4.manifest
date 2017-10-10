@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 932952487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7780d723b9055a886072410cbade8e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/YebisuStay.mp4.bytes
+Dependencies: []

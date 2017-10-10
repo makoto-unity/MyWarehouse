@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 2898263067
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: icon0
+      Dependencies:
+        Dependency_0: iconassets
+    Info_1:
+      Name: icon1
+      Dependencies:
+        Dependency_0: iconassets
+    Info_2:
+      Name: icon2
+      Dependencies:
+        Dependency_0: iconassets
+    Info_3:
+      Name: icon3
+      Dependencies:
+        Dependency_0: iconassets
+    Info_4:
+      Name: icon4
+      Dependencies:
+        Dependency_0: iconassets
+    Info_5:
+      Name: icon5
+      Dependencies:
+        Dependency_0: iconassets
+    Info_6:
+      Name: icon6
+      Dependencies:
+        Dependency_0: iconassets
+    Info_7:
+      Name: icon7
+      Dependencies:
+        Dependency_0: iconassets
+    Info_8:
+      Name: icon8
+      Dependencies:
+        Dependency_0: iconassets
+    Info_9:
+      Name: icon9
+      Dependencies:
+        Dependency_0: iconassets
+    Info_10:
+      Name: icon10
+      Dependencies:
+        Dependency_0: iconassets
+    Info_11:
+      Name: icon11
+      Dependencies:
+        Dependency_0: iconassets
+    Info_12:
+      Name: iconassets
+      Dependencies: {}
+    Info_13:
+      Name: asojump.mp4
+      Dependencies: {}
+    Info_14:
+      Name: asostay.mp4
+      Dependencies: {}
+    Info_15:
+      Name: daisenjump.mp4
+      Dependencies: {}
+    Info_16:
+      Name: daisenstay.mp4
+      Dependencies: {}
+    Info_17:
+      Name: iejimajump.mp4
+      Dependencies: {}
+    Info_18:
+      Name: iejimastay.mp4
+      Dependencies: {}
+    Info_19:
+      Name: jump.mp4
+      Dependencies: {}
+    Info_20:
+      Name: jumpgunkan.mp4
+      Dependencies: {}
+    Info_21:
+      Name: kanakoswing.mp4
+      Dependencies: {}
+    Info_22:
+      Name: kobejump.mp4
+      Dependencies: {}
+    Info_23:
+      Name: kobestay.mp4
+      Dependencies: {}
+    Info_24:
+      Name: kondajump.mp4
+      Dependencies: {}
+    Info_25:
+      Name: kondastay.mp4
+      Dependencies: {}
+    Info_26:
+      Name: mizuumijump.mp4
+      Dependencies: {}
+    Info_27:
+      Name: mizuumistay.mp4
+      Dependencies: {}
+    Info_28:
+      Name: okinawajump.mp4
+      Dependencies: {}
+    Info_29:
+      Name: okinawastay.mp4
+      Dependencies: {}
+    Info_30:
+      Name: stay.mp4
+      Dependencies: {}
+    Info_31:
+      Name: staygunkan.mp4
+      Dependencies: {}
+    Info_32:
+      Name: swing.mp4
+      Dependencies: {}
+    Info_33:
+      Name: yebisujump.mp4
+      Dependencies: {}
+    Info_34:
+      Name: yebisustay.mp4
+      Dependencies: {}
+    Info_35:
+      Name: zaojump.mp4
+      Dependencies: {}
+    Info_36:
+      Name: zaostay.mp4
+      Dependencies: {}

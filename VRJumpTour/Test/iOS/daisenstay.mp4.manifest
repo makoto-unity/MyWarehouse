@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4260622066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84162540af9365972ea17f2f8364ba4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/DaisenStay.mp4.bytes
+Dependencies: []

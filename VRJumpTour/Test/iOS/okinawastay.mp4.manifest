@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1299777056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf174c957898c486ecc93ee7d41239f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/OkinawaStay.mp4.bytes
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1349325744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a88afd8e3ffb69dce5f564295f472cc2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/ZaoJump.mp4.bytes
+Dependencies: []

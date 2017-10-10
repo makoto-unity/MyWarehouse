@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2154685630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc57c0da074d31eb6b449927d98e841c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/ZaoStay.mp4.bytes
+Dependencies: []
