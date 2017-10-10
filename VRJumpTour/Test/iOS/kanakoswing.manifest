@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1382441856
+CRC: 2330105258
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f1f17754d6aa9951fc6700132d4d7e8f
+    Hash: bf57e71ce28617d5357b6dbff19168b9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/KanakoSwing.mp4
+- Assets/_MyGame/Movie/KanakoSwing.bytes
 Dependencies: []

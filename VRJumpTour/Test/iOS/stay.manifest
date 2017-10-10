@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1315850723
+CRC: 1661358930
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d43315deb4dbf0fc744e744d8904e15d
+    Hash: 14b6d79247f3883011dda4c8782771d8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/stay.mp4
+- Assets/_MyGame/Movie/stay.bytes
 Dependencies: []

@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 576413120
+CRC: 567355170
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3bafc4ca64e29e716dc6e66c2c3eb9da
+    Hash: 981a32f0ccb4e33925b8b878bf05cf1b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/MizuumiJump.mp4
+- Assets/_MyGame/Movie/MizuumiJump.bytes
 Dependencies: []

@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1553923882
+CRC: 3671458558
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b778480f2cda41ea76925a7955e8334f
+    Hash: 315710686af6e7053f963b567f0e725e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/AsoStay_2k.mp4
+- Assets/_MyGame/Movie/AsoStay_2k.bytes
 Dependencies: []

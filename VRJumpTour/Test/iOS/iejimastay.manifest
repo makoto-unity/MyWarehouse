@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3536360224
+CRC: 724737342
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b677ed05b0209d07dd35d0978a745de4
+    Hash: 9101d560812697ca8cf27155291f0f41
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/IejimaStay.mp4
+- Assets/_MyGame/Movie/IejimaStay.bytes
 Dependencies: []

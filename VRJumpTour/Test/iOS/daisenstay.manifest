@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 513237468
+CRC: 3253417826
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 80d6822ace4f2a02b4686a49f8e12660
+    Hash: a35381080d872e67f83eb26a1e2ca79b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/DaisenStay.mp4
+- Assets/_MyGame/Movie/DaisenStay.bytes
 Dependencies: []

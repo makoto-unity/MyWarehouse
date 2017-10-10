@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 526107604
+CRC: 1813368799
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea23de4123210d22c7995a7fd0b61141
+    Hash: e1d35ef27993178f537359d7ec30ea1e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/StayGunkan.mp4
+- Assets/_MyGame/Movie/StayGunkan.bytes
 Dependencies: []

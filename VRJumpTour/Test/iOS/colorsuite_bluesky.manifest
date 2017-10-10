@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4026416293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fd9f0683a0f7b259f5ca43c7e215e29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f156806abd4fda37f6805116ae26836
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10593b7d510b64560a297a8af1356dcb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Prefabs/ColorSuite_BlueSky.prefab
+Dependencies:
+- /Users/makoto/Unity/GitHub/MyWarehouse/VRJumpTour/Test/iOS/icondata

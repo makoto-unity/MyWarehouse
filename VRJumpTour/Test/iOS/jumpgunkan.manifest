@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 98059008
+CRC: 3835408702
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 083e4d6b774d1e0780bf91ea3e2caad2
+    Hash: f4499a7cb8ab23de55e7082f9f63ff42
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/JumpGunkan.mp4
+- Assets/_MyGame/Movie/JumpGunkan.bytes
 Dependencies: []

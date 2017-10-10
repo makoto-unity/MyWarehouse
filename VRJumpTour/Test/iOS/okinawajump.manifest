@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 505590702
+CRC: 3448229326
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e579274d485436371fe10b3e974e6dd
+    Hash: bdc71b6b06ff07663caf323b69c80427
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/OkinawaJump.mp4
+- Assets/_MyGame/Movie/OkinawaJump.bytes
 Dependencies: []

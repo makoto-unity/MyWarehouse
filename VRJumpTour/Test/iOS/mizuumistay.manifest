@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3360482442
+CRC: 580086043
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b084502eb3ece474b3f85100a2edfc49
+    Hash: d3a030917704ba51cf1bc5cc074b97fc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/MizuumiStay.mp4
+- Assets/_MyGame/Movie/MizuumiStay.bytes
 Dependencies: []

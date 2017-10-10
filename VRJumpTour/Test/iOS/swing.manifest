@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 2300035990
+CRC: 2532267416
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f901835cf3e1e2fd82505f3739aa44d5
+    Hash: b1acc0f32967f99365d4d2bb28b0cd3f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/Swing.mp4
+- Assets/_MyGame/Movie/Swing.bytes
 Dependencies: []

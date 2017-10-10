@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3244225126
+CRC: 3351928626
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b4a024d9e81f2c8591f03818f43f806
+    Hash: 85fb972fb91f3b44e9c76f895826b546
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/AsoJump_2k.mp4
+- Assets/_MyGame/Movie/AsoJump_2k.bytes
 Dependencies: []

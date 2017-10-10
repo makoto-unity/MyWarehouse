@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 713080707
+CRC: 1362027402
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d607e2d90de22a4dbe9dc1e3462f0cc0
+    Hash: cb9adffdfcf7a03c917b31309326f076
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/IejimaJump_2k.mp4
+- Assets/_MyGame/Movie/IejimaJump_2k.bytes
 Dependencies: []

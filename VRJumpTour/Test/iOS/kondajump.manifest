@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1088115739
+CRC: 1706206089
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89e6fc0d4c8270eb0303116ee1df48b6
+    Hash: 01ea9b53ea0c9e0e0d25388067251cc2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/KondaJump.mp4
+- Assets/_MyGame/Movie/KondaJump.bytes
 Dependencies: []

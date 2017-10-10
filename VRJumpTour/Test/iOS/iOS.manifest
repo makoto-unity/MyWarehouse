@@ -1,163 +1,179 @@
 ManifestFileVersion: 0
-CRC: 287792736
+CRC: 3615591205
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: asojump
-      Dependencies: {}
-    Info_1:
-      Name: asostay
-      Dependencies: {}
-    Info_2:
-      Name: daisenjump
-      Dependencies: {}
-    Info_3:
-      Name: daisenstay
-      Dependencies: {}
-    Info_4:
-      Name: iejimajump
-      Dependencies: {}
-    Info_5:
-      Name: iejimastay
-      Dependencies: {}
-    Info_6:
-      Name: jump
-      Dependencies: {}
-    Info_7:
-      Name: jump_2k
-      Dependencies: {}
-    Info_8:
-      Name: jumpgunkan
-      Dependencies: {}
-    Info_9:
-      Name: jumpgunkan_2k
-      Dependencies: {}
-    Info_10:
-      Name: kanakoswing
-      Dependencies: {}
-    Info_11:
-      Name: kobejump
-      Dependencies: {}
-    Info_12:
-      Name: kobestay
-      Dependencies: {}
-    Info_13:
-      Name: kondajump
-      Dependencies: {}
-    Info_14:
-      Name: kondastay
-      Dependencies: {}
-    Info_15:
-      Name: mizuumijump
-      Dependencies: {}
-    Info_16:
-      Name: mizuumistay
-      Dependencies: {}
-    Info_17:
-      Name: okinawajump
-      Dependencies: {}
-    Info_18:
-      Name: okinawajump_2k
-      Dependencies: {}
-    Info_19:
-      Name: okinawastay
-      Dependencies: {}
-    Info_20:
-      Name: okinawastay_2k
-      Dependencies: {}
-    Info_21:
-      Name: stay
-      Dependencies: {}
-    Info_22:
-      Name: stay_2k
-      Dependencies: {}
-    Info_23:
-      Name: staygunkan
-      Dependencies: {}
-    Info_24:
-      Name: staygunkan_2k
-      Dependencies: {}
-    Info_25:
-      Name: swing
-      Dependencies: {}
-    Info_26:
-      Name: swing_2k
-      Dependencies: {}
-    Info_27:
-      Name: yebisujump
-      Dependencies: {}
-    Info_28:
-      Name: yebisustay
-      Dependencies: {}
-    Info_29:
-      Name: zaojump
-      Dependencies: {}
-    Info_30:
-      Name: zaostay
-      Dependencies: {}
-    Info_31:
-      Name: iejimastay_2k
-      Dependencies: {}
-    Info_32:
-      Name: iejimajump_2k
-      Dependencies: {}
-    Info_33:
-      Name: asostay_2k
-      Dependencies: {}
-    Info_34:
-      Name: asojump_2k
-      Dependencies: {}
-    Info_35:
       Name: icon0
       Dependencies:
         Dependency_0: icondata
-    Info_36:
+    Info_1:
       Name: icon1
       Dependencies:
         Dependency_0: icondata
-    Info_37:
+    Info_2:
       Name: icon2
       Dependencies:
         Dependency_0: icondata
-    Info_38:
+    Info_3:
       Name: icon3
       Dependencies:
         Dependency_0: icondata
-    Info_39:
+    Info_4:
       Name: icon4
       Dependencies:
         Dependency_0: icondata
-    Info_40:
+    Info_5:
       Name: icon5
       Dependencies:
         Dependency_0: icondata
-    Info_41:
+    Info_6:
       Name: icon6
       Dependencies:
         Dependency_0: icondata
-    Info_42:
+    Info_7:
       Name: icon7
       Dependencies:
         Dependency_0: icondata
-    Info_43:
+    Info_8:
       Name: icon8
       Dependencies:
         Dependency_0: icondata
-    Info_44:
+    Info_9:
       Name: icon9
       Dependencies:
         Dependency_0: icondata
-    Info_45:
+    Info_10:
       Name: icon10
       Dependencies:
         Dependency_0: icondata
-    Info_46:
+    Info_11:
       Name: icon11
       Dependencies:
         Dependency_0: icondata
-    Info_47:
+    Info_12:
       Name: icondata
       Dependencies: {}
-    Info_48:
+    Info_13:
       Name: jumplist
+      Dependencies: {}
+    Info_14:
+      Name: colorsuite_bluesky
+      Dependencies:
+        Dependency_0: icondata
+    Info_15:
+      Name: colorsuite_forest
+      Dependencies:
+        Dependency_0: icondata
+    Info_16:
+      Name: colorsuite_grand
+      Dependencies:
+        Dependency_0: icondata
+    Info_17:
+      Name: colorsuite_town
+      Dependencies:
+        Dependency_0: icondata
+    Info_18:
+      Name: asojump
+      Dependencies: {}
+    Info_19:
+      Name: asojump_2k
+      Dependencies: {}
+    Info_20:
+      Name: asostay
+      Dependencies: {}
+    Info_21:
+      Name: asostay_2k
+      Dependencies: {}
+    Info_22:
+      Name: daisenjump
+      Dependencies: {}
+    Info_23:
+      Name: daisenstay
+      Dependencies: {}
+    Info_24:
+      Name: iejimajump
+      Dependencies: {}
+    Info_25:
+      Name: iejimajump_2k
+      Dependencies: {}
+    Info_26:
+      Name: iejimastay
+      Dependencies: {}
+    Info_27:
+      Name: iejimastay_2k
+      Dependencies: {}
+    Info_28:
+      Name: jump
+      Dependencies: {}
+    Info_29:
+      Name: jump_2k
+      Dependencies: {}
+    Info_30:
+      Name: jumpgunkan
+      Dependencies: {}
+    Info_31:
+      Name: jumpgunkan_2k
+      Dependencies: {}
+    Info_32:
+      Name: kanakoswing
+      Dependencies: {}
+    Info_33:
+      Name: kobejump
+      Dependencies: {}
+    Info_34:
+      Name: kobestay
+      Dependencies: {}
+    Info_35:
+      Name: kondajump
+      Dependencies: {}
+    Info_36:
+      Name: kondastay
+      Dependencies: {}
+    Info_37:
+      Name: mizuumijump
+      Dependencies: {}
+    Info_38:
+      Name: mizuumistay
+      Dependencies: {}
+    Info_39:
+      Name: okinawajump
+      Dependencies: {}
+    Info_40:
+      Name: okinawajump_2k
+      Dependencies: {}
+    Info_41:
+      Name: okinawastay
+      Dependencies: {}
+    Info_42:
+      Name: okinawastay_2k
+      Dependencies: {}
+    Info_43:
+      Name: stay
+      Dependencies: {}
+    Info_44:
+      Name: stay_2k
+      Dependencies: {}
+    Info_45:
+      Name: staygunkan
+      Dependencies: {}
+    Info_46:
+      Name: staygunkan_2k
+      Dependencies: {}
+    Info_47:
+      Name: swing
+      Dependencies: {}
+    Info_48:
+      Name: swing_2k
+      Dependencies: {}
+    Info_49:
+      Name: yebisujump
+      Dependencies: {}
+    Info_50:
+      Name: yebisustay
+      Dependencies: {}
+    Info_51:
+      Name: zaojump
+      Dependencies: {}
+    Info_52:
+      Name: zaostay
       Dependencies: {}

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1569466836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c8a5a87bc7924a64c556d6ec1492e8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f156806abd4fda37f6805116ae26836
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10593b7d510b64560a297a8af1356dcb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Prefabs/ColorSuite_Grand.prefab
+Dependencies:
+- /Users/makoto/Unity/GitHub/MyWarehouse/VRJumpTour/Test/iOS/icondata

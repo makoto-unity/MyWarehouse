@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1839108045
+CRC: 326327799
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2a578cfa28b057c5c3364d3d0c461870
+    Hash: 7e94e30829e8271059cda6b60bcc5455
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/KondaStay.mp4
+- Assets/_MyGame/Movie/KondaStay.bytes
 Dependencies: []

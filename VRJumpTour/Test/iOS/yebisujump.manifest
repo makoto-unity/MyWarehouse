@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 89465329
+CRC: 1765959701
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9820a90bd76fcd3c32a6d957edaab80c
+    Hash: 511e71d12dc01bcba66df43e439218d2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
 HashAppended: 0
 ClassTypes:
-- Class: 329
+- Class: 49
   Script: {instanceID: 0}
 Assets:
-- Assets/_MyGame/Movie/YebisuJump.mp4
+- Assets/_MyGame/Movie/YebisuJump.bytes
 Dependencies: []
