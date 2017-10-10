@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 739804895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 529910b366156d722190922950291ab5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/DaisenJump.mp4
+Dependencies: []

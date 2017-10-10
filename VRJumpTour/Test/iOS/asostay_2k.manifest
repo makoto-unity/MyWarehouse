@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1553923882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b778480f2cda41ea76925a7955e8334f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/AsoStay_2k.mp4
+Dependencies: []

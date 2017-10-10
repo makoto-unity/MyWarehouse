@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2861806858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77422c54036347d1339854bdc7957b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/jump.mp4
+Dependencies: []

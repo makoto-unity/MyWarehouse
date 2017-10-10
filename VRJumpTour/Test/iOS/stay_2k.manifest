@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2161776872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62427ae75f999ab12f0d71cfbfa85ba3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/stay_2k.mp4
+Dependencies: []

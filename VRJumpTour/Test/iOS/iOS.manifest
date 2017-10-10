@@ -1,173 +1,163 @@
 ManifestFileVersion: 0
-CRC: 677565395
+CRC: 287792736
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: icon0
-      Dependencies:
-        Dependency_0: iconassets
+      Name: asojump
+      Dependencies: {}
     Info_1:
-      Name: icon1
-      Dependencies:
-        Dependency_0: iconassets
+      Name: asostay
+      Dependencies: {}
     Info_2:
-      Name: icon2
-      Dependencies:
-        Dependency_0: iconassets
+      Name: daisenjump
+      Dependencies: {}
     Info_3:
-      Name: icon3
-      Dependencies:
-        Dependency_0: iconassets
+      Name: daisenstay
+      Dependencies: {}
     Info_4:
-      Name: icon4
-      Dependencies:
-        Dependency_0: iconassets
+      Name: iejimajump
+      Dependencies: {}
     Info_5:
-      Name: icon5
-      Dependencies:
-        Dependency_0: iconassets
+      Name: iejimastay
+      Dependencies: {}
     Info_6:
-      Name: icon6
-      Dependencies:
-        Dependency_0: iconassets
+      Name: jump
+      Dependencies: {}
     Info_7:
-      Name: icon7
-      Dependencies:
-        Dependency_0: iconassets
+      Name: jump_2k
+      Dependencies: {}
     Info_8:
-      Name: icon8
-      Dependencies:
-        Dependency_0: iconassets
+      Name: jumpgunkan
+      Dependencies: {}
     Info_9:
-      Name: icon9
-      Dependencies:
-        Dependency_0: iconassets
+      Name: jumpgunkan_2k
+      Dependencies: {}
     Info_10:
-      Name: icon10
-      Dependencies:
-        Dependency_0: iconassets
+      Name: kanakoswing
+      Dependencies: {}
     Info_11:
-      Name: icon11
-      Dependencies:
-        Dependency_0: iconassets
+      Name: kobejump
+      Dependencies: {}
     Info_12:
-      Name: iconassets
+      Name: kobestay
       Dependencies: {}
     Info_13:
-      Name: asojump.mp4
+      Name: kondajump
       Dependencies: {}
     Info_14:
-      Name: asostay.mp4
+      Name: kondastay
       Dependencies: {}
     Info_15:
-      Name: daisenjump.mp4
+      Name: mizuumijump
       Dependencies: {}
     Info_16:
-      Name: daisenstay.mp4
+      Name: mizuumistay
       Dependencies: {}
     Info_17:
-      Name: iejimajump.mp4
+      Name: okinawajump
       Dependencies: {}
     Info_18:
-      Name: iejimastay.mp4
+      Name: okinawajump_2k
       Dependencies: {}
     Info_19:
-      Name: jump.mp4
+      Name: okinawastay
       Dependencies: {}
     Info_20:
-      Name: jumpgunkan.mp4
+      Name: okinawastay_2k
       Dependencies: {}
     Info_21:
-      Name: kanakoswing.mp4
+      Name: stay
       Dependencies: {}
     Info_22:
-      Name: kobejump.mp4
+      Name: stay_2k
       Dependencies: {}
     Info_23:
-      Name: kobestay.mp4
+      Name: staygunkan
       Dependencies: {}
     Info_24:
-      Name: kondajump.mp4
+      Name: staygunkan_2k
       Dependencies: {}
     Info_25:
-      Name: kondastay.mp4
+      Name: swing
       Dependencies: {}
     Info_26:
-      Name: mizuumijump.mp4
+      Name: swing_2k
       Dependencies: {}
     Info_27:
-      Name: mizuumistay.mp4
+      Name: yebisujump
       Dependencies: {}
     Info_28:
-      Name: okinawajump.mp4
+      Name: yebisustay
       Dependencies: {}
     Info_29:
-      Name: okinawastay.mp4
+      Name: zaojump
       Dependencies: {}
     Info_30:
-      Name: stay.mp4
+      Name: zaostay
       Dependencies: {}
     Info_31:
-      Name: staygunkan.mp4
+      Name: iejimastay_2k
       Dependencies: {}
     Info_32:
-      Name: swing.mp4
+      Name: iejimajump_2k
       Dependencies: {}
     Info_33:
-      Name: yebisujump.mp4
+      Name: asostay_2k
       Dependencies: {}
     Info_34:
-      Name: yebisustay.mp4
+      Name: asojump_2k
       Dependencies: {}
     Info_35:
-      Name: zaojump.mp4
-      Dependencies: {}
+      Name: icon0
+      Dependencies:
+        Dependency_0: icondata
     Info_36:
-      Name: zaostay.mp4
-      Dependencies: {}
+      Name: icon1
+      Dependencies:
+        Dependency_0: icondata
     Info_37:
-      Name: scene-bundle
+      Name: icon2
       Dependencies:
-        Dependency_0: material-bundle
+        Dependency_0: icondata
     Info_38:
-      Name: variants/myassets.hd
-      Dependencies: {}
+      Name: icon3
+      Dependencies:
+        Dependency_0: icondata
     Info_39:
-      Name: variants/variant-scene
+      Name: icon4
       Dependencies:
-        Dependency_0: variants/myassets.hd
+        Dependency_0: icondata
     Info_40:
-      Name: variants/myassets.sd
-      Dependencies: {}
-    Info_41:
-      Name: tanks-scene-bundle
+      Name: icon5
       Dependencies:
-        Dependency_0: tanks-albedo.normal-hd
+        Dependency_0: icondata
+    Info_41:
+      Name: icon6
+      Dependencies:
+        Dependency_0: icondata
     Info_42:
-      Name: tanks-albedo.desert-hd
-      Dependencies: {}
+      Name: icon7
+      Dependencies:
+        Dependency_0: icondata
     Info_43:
-      Name: tanks-albedo.normal-sd
-      Dependencies: {}
+      Name: icon8
+      Dependencies:
+        Dependency_0: icondata
     Info_44:
-      Name: tanks-albedo.normal-hd
-      Dependencies: {}
+      Name: icon9
+      Dependencies:
+        Dependency_0: icondata
     Info_45:
-      Name: tanks-albedo.desert-sd
-      Dependencies: {}
+      Name: icon10
+      Dependencies:
+        Dependency_0: icondata
     Info_46:
-      Name: banner.english
-      Dependencies: {}
+      Name: icon11
+      Dependencies:
+        Dependency_0: icondata
     Info_47:
-      Name: banner.danish
+      Name: icondata
       Dependencies: {}
     Info_48:
-      Name: cube-bundle
-      Dependencies:
-        Dependency_0: material-bundle
-    Info_49:
-      Name: material-bundle
-      Dependencies: {}
-    Info_50:
       Name: jumplist
       Dependencies: {}

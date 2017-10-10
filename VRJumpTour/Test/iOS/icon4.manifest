@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2103463617
+CRC: 3823546744
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 37cbd0bc420355eb28a43b7076a75cfe
+    Hash: 5eb41be4480d64350ee29ec5b040e61d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 741ce0c4d3f16c73b92e8b4835d5c8d7
@@ -34,4 +34,4 @@ ClassTypes:
 Assets:
 - Assets/_MyGame/Prefabs/Icon4.prefab
 Dependencies:
-- /Users/makoto/Unity/GitHub/VRJumpTour_2017/AssetBundles/iOS/iconassets
+- /Users/makoto/Unity/GitHub/VRJumpTour_2017/AssetBundles/iOS/icondata

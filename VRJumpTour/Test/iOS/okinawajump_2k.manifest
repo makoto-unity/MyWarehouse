@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3957685106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1571c6bc71c00cd68ab22bbe37b9f92a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/OkinawaJump_2k.mp4
+Dependencies: []

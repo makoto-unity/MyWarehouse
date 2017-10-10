@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 576413120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bafc4ca64e29e716dc6e66c2c3eb9da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/MizuumiJump.mp4
+Dependencies: []

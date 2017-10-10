@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4166613019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3edf31f0402c95e9970929b431ac982d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/_MyGame/Movie/KobeStay.mp4
+Dependencies: []
